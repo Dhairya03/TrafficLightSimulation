@@ -1,0 +1,83 @@
+In file included from lane.cpp:1:
+../inc/lane.h:10:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   10 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:12:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   12 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:14:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   14 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:16:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   16 |     std::counting_semaphore
+      |     ^~~
+In file included from ../inc/laneFour.h:3,
+                 from laneFour.cpp:1:
+../inc/lane.h:10:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   10 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:12:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   12 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:14:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   14 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:16:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   16 |     std::counting_semaphore
+      |     ^~~
+In file included from ../inc/laneOne.h:3,
+                 from laneOne.cpp:1:
+../inc/lane.h:10:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   10 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:12:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   12 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:14:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   14 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:16:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   16 |     std::counting_semaphore
+      |     ^~~
+In file included from ../inc/laneThree.h:3,
+                 from laneThree.cpp:1:
+../inc/lane.h:10:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   10 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:12:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   12 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:14:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   14 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:16:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   16 |     std::counting_semaphore
+      |     ^~~
+In file included from ../inc/laneTwo.h:3,
+                 from laneTwo.cpp:1:
+../inc/lane.h:10:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   10 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:12:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   12 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:14:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   14 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:16:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   16 |     std::counting_semaphore
+      |     ^~~
+In file included from ../inc/laneOne.h:3,
+                 from main.cpp:6:
+../inc/lane.h:10:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   10 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:12:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   12 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:14:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   14 |     std::counting_semaphore
+      |     ^~~
+../inc/lane.h:16:5: error: invalid use of template-name ‘std::counting_semaphore’ without an argument list
+   16 |     std::counting_semaphore
+      |     ^~~
